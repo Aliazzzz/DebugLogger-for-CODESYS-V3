@@ -12,6 +12,7 @@ Include the .Library,
 (optional) write the actucal time to stDebugInformation.dtActualTime := SOME_DT_VAR;
 
 call function DebugLog(...) to add a Message to the Ringbuffer. 
+
 Parameters are:
 
         sMessage 	: STRING(64);
