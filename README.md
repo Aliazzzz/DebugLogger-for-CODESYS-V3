@@ -16,7 +16,7 @@ call function DebugLog(...) to add a Message to the Ringbuffer. Parameters are:
         sMessage 	: STRING(64);
         ePriority 	: E_DebugMessagePriority;
 
-Prioritys are
+Priorities are
 
         DEBUG := 0
         INFO := 1
@@ -24,5 +24,5 @@ Prioritys are
         ERROR := 3
         FATAL := 4
 
-All messages will be added to the stDebugInformation Struct in Global Variables of the Library
-To change the Ringbuffer size, set the the iMaxDebugEntries constant in your project GVL.
+All messages will be added to the stDebugInformation Struct in Global Variables of the Library.
+To change the Ringbuffer size, set the the iMaxDebugEntries constant in DebugLogParam library parameter.
