@@ -1,6 +1,6 @@
 # DebugLogger for CODESYS V3 
 
-original idea by Sebastian Rau: https://github.com/SebastianRau/Codesys2-DebugMessages
+Credits and kudo's to the original poster: https://github.com/SebastianRau/Codesys2-DebugMessages
 
 
 # Adds debug messages to a global array in your application
