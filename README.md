@@ -7,7 +7,7 @@ original idea by Sebastian Rau: https://github.com/SebastianRau/Codesys2-DebugMe
 
 Usage:
 
-include .Library,
+Include the .Library,
 
 (optional) write the actucal time to stDebugInformation.dtActualTime := SOME_TIME_VALRIABLE_AS_DT;
 
