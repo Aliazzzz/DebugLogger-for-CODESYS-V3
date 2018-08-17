@@ -29,7 +29,7 @@ Priorities are:
 All messages will be added to the stDebugInformation Struct in Global Variables of the Library.
 
 
-# Change the Ringbuffer size;
+# Changing the default Ringbuffer size;
 
         Just change the iMaxDebugEntries parameter in the DebugLogParam library;
 
