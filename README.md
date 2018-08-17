@@ -9,9 +9,9 @@ Usage:
 
 Include the .Library,
 
-(optional) write the actucal time to stDebugInformation.dtActualTime := SOME_DT_VAR;
+*(optional) write the actucal time to stDebugInformation.dtActualTime := SOME_DT_VAR;
 
-(optional) to change the Ringbuffer size, set the the iMaxDebugEntries constant in DebugLogParam library parameter.
+*(optional) to change the Ringbuffer size, set the the iMaxDebugEntries constant in DebugLogParam library parameter.
 
 call function DebugLog(...) to add a Message to the Ringbuffer. 
 
@@ -30,4 +30,8 @@ Priorities are:
 
 All messages will be added to the stDebugInformation Struct in Global Variables of the Library.
 
-# To open the Array online in the CODESYS IDE, open the librarary manager, search for the DebugLogger, double click the GLOBALS
+# To open the Array online in the CODESYS IDE; 
+
+        open the librarary manager, 
+        search for the DebugLogger, 
+        double-click the GLOBALS.
