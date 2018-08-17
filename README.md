@@ -31,7 +31,7 @@ All messages will be added to the stDebugInformation Struct in Global Variables 
 
 # Changing the default Ringbuffer size;
 
-        Just change the iMaxDebugEntries parameter in the DebugLogParam library;
+        No coding neccesary, just change the iMaxDebugEntries parameter in the DebugLogParam library;
 
 ![Alt text](https://github.com/Aliazzzz/DebugLogger-for-CODESYS-V3/blob/master/pics/DebugLogger%20iMaxDebugEntries%20parameter%20change.png "iMaxDebugEntries Parameter Change")
 
@@ -43,6 +43,9 @@ All messages will be added to the stDebugInformation Struct in Global Variables 
         Search for GVL_DEBUG in DebugLogger, 
         Double-click;
 
+
 ![Alt text](https://github.com/Aliazzzz/DebugLogger-for-CODESYS-V3/blob/master/pics/GVL_DEBUG%20online.png "debug online")
+
+
 ![Alt text](https://github.com/Aliazzzz/DebugLogger-for-CODESYS-V3/blob/master/pics/GVL_DEBUG%20online%202.png "debug online 2")
 
