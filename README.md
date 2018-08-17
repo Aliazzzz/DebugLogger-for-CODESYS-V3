@@ -30,8 +30,8 @@ Priorities are:
 
 All messages will be added to the stDebugInformation Struct in Global Variables of the Library.
 
-# To open the Array online in the CODESYS IDE; 
+# Opening the debugmessages online; 
 
-        open the librarary manager, 
-        search for the DebugLogger, 
-        double-click the GLOBALS.
+        - open the librarary manager, 
+        - search for the DebugLogger, 
+        - double-click the GLOBALS
