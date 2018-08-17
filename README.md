@@ -39,13 +39,8 @@ All messages will be added to the stDebugInformation Struct in Global Variables 
 
 # Opening the debugmessages online;
 
-        Open the library manager, 
-        Search for GVL_DEBUG in DebugLogger, 
-        Double-click;
+        Open the library manager, select GVL_DEBUG in DebugLogger, double-click;
 
 
 ![Alt text](https://github.com/Aliazzzz/DebugLogger-for-CODESYS-V3/blob/master/pics/GVL_DEBUG%20online.png "debug online")
-
-
 ![Alt text](https://github.com/Aliazzzz/DebugLogger-for-CODESYS-V3/blob/master/pics/GVL_DEBUG%20online%202.png "debug online 2")
-
