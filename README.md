@@ -10,7 +10,6 @@ Usage:
 Include the .Library,
 
 (optional) write the actucal time to stDebugInformation.dtActualTime := SOME_DT_VAR;
-(optional) to change the Ringbuffer size, .
 
 call function DebugLog(...) to add a Message to the Ringbuffer. 
 
@@ -28,6 +27,7 @@ Priorities are:
         FATAL := 4
 
 All messages will be added to the stDebugInformation Struct in Global Variables of the Library.
+
 
 # Change the Ringbuffer size;
 
