@@ -9,9 +9,8 @@ Usage:
 
 Include the .Library,
 
-*(optional) write the actucal time to stDebugInformation.dtActualTime := SOME_DT_VAR;
-
-*(optional) to change the Ringbuffer size, set the the iMaxDebugEntries constant in DebugLogParam library parameter.
+(optional) write the actucal time to stDebugInformation.dtActualTime := SOME_DT_VAR;
+(optional) to change the Ringbuffer size, .
 
 call function DebugLog(...) to add a Message to the Ringbuffer. 
 
@@ -30,8 +29,18 @@ Priorities are:
 
 All messages will be added to the stDebugInformation Struct in Global Variables of the Library.
 
-# Opening the debugmessages online; 
+# Change the Ringbuffer size;
 
-        - open the librarary manager, 
-        - search for the DebugLogger, 
-        - double-click the GLOBALS
+        <insert picture>
+
+        Change iMaxDebugEntries parameter in DebugLogParam library
+
+
+# Opening the debugmessages online;
+
+        <insert picture>
+
+        open the librarary manager, 
+        search for the DebugLogger, 
+        double-click the GLOBALS.
+
