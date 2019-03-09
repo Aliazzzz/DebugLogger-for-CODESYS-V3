@@ -2,6 +2,11 @@
 
 Reworked from original poster: https://github.com/SebastianRau/Codesys2-DebugMessages
 
+# This Git has moved
+
+https://forge.codesys.com/lib/debuglogger/home/ 
+Where it will find a new home
+
 
 # Adds debug messages to a global array in your application
 
